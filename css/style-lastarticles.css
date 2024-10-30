@@ -1,0 +1,8 @@
+.lst_afficherarticles {
+margin: 0;
+padding: 0;
+margin-left: 1em;
+}
+.lst_lien {
+list-style-image: url(lien.png);
+}
